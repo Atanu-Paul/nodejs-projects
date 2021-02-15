@@ -1,3 +1,3 @@
 git commit -m "pushing changes"
 
-git push origin -u master
+git push origin -u main
